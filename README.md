@@ -30,14 +30,20 @@ I am always open to discussing new projects, creative ideas, or opportunities to
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishnukantshukla&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishnukantshukla&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukantshukla&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukantshukla&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+# 📊 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Vishnukant_shukla?theme=wtf)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishnukantshukla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishnukantshukla&icon=0&color=2)](https://visitcount.itsvg.in)
