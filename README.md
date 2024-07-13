@@ -7,10 +7,10 @@ In addition to web development, I am dedicated to enhancing my problem-solving s
 
 **💻 Programming Skills**    
       Feel free to ask me about:  
-**C Programming:** From pointers to data structures, I have a solid foundation in C programming.  
+**Java Programming:** From Basic to data structures, I have a solid foundation in Java programming.  
 **HTML & CSS:** I build visually appealing and user-friendly web interfaces.  
 **MongDb:** I manage databases and write efficient queries for data manipulation.  
-**Java:** I develop robust applications using object-oriented principles.  
+
 
 💬 Let's Connect
 I am always open to discussing new projects, creative ideas, or opportunities to collaborate. Let's connect and build something amazing together!
