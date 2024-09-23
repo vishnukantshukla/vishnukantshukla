@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # 💫 About Me:  
 **🌐 Web Development Enthusiast**  
 I am currently working on various web development projects, utilizing technologies like HTML, CSS, JavaScript, Node.js, React.js, Express, and MongoDB to create dynamic and responsive web applications. My passion for web development drives me to continuously learn and implement new features and best practices in my projects.
