@@ -6,32 +6,35 @@ I enjoy building dynamic, scalable, and user-friendly web applications using HTM
 **📚 Lifelong Learner**    
 In addition to web development, I am dedicated to enhancing my problem-solving skills through competitive coding and continuously deepening my understanding of Data Structures and Algorithms (DSA). I focus on writing efficient, optimized, and scalable code to tackle complex real-world problems and improve overall system performance.
 
-**💻 Programming Skills**    
-      Feel free to ask me about:  
-**Java Programming** : Strong fundamentals, OOPs, and data structures
+**💻 Programming Skills** 
 
-**Python Programming** : Automation scripting, test frameworks, backend utilities, and writing clean, readable code
+&nbsp;&nbsp;&nbsp;&nbsp; Feel free to ask me about:  
 
-**JavaScript**: Modern ES6+, async programming
+* **Java Programming** : Strong fundamentals, OOPs, and data structures
 
-**HTML & CSS**: Clean, responsive, and accessible UI design
+* **Python Programming** : Automation scripting, test frameworks, backend utilities, and writing clean, readable code
 
-**MongoDB**: Database design, CRUD operations, and optimized queries
+* **JavaScript**: Modern ES6+, async programming
 
-**Testing**: Automation, manual testing, API testing, E2E testing
+* **HTML & CSS**: Clean, responsive, and accessible UI design
 
-**🧪 Software Development Engineer in Test (SDET) @ E2E Networks**
-Currently working as an SDET at E2E Networks, where I play a key role in ensuring product quality and reliability. My responsibilities include:
+* **MongoDB**: Database design, CRUD operations, and optimized queries
 
-✅ Automation Testing for APIs and web applications
+* **Testing**: Automation, manual testing, API testing, E2E testing
 
-🔍 Manual Testing to validate complex user flows and edge cases
+**🧪 Software Development Engineer in Test (SDET) @ E2E Networks**  
 
-🧪 Writing test scenarios for real-world use cases
+&nbsp;&nbsp;&nbsp;&nbsp;Currently working as an SDET at E2E Networks, where I play a key role in ensuring product quality and reliability. My responsibilities include:
 
-📝 Creating and maintaining detailed **E2E documentation** for features and releases
+* ✅ Automation Testing for APIs and web applications
 
-🤝 Collaborating closely with developers, DevOps, and product teams
+* 🔍 Manual Testing to validate complex user flows and edge cases
+
+* 🧪 Writing test scenarios for real-world use cases
+
+* 📝 Creating and maintaining detailed **E2E documentation** for features and releases
+
+* 🤝 Collaborating closely with developers, DevOps, and product teams
 
 Alongside testing, I actively contribute to:
 
@@ -42,11 +45,11 @@ This helps me bridge the gap between development and testing and deliver higher-
 
 🚀 **What Drives Me**
 
-Building reliable, high-quality software
+* Building reliable, high-quality software
 
-Learning new technologies and improving existing systems
+* Learning new technologies and improving existing systems
 
-Working across roles — testing, frontend, and backend — to deliver better products
+* Working across roles — testing, frontend, and backend — to deliver better products
 
 💬 Let's Connect
 I am always open to discussing new projects, creative ideas, or opportunities to collaborate. Let's connect and build something amazing together!
