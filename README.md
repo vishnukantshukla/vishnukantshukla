@@ -1,17 +1,52 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # 💫 About Me:  
 **🌐 Web Development Enthusiast**  
-I am currently working on various web development projects, utilizing technologies like HTML, CSS, JavaScript, Node.js, React.js, Express, and MongoDB to create dynamic and responsive web applications. My passion for web development drives me to continuously learn and implement new features and best practices in my projects.
+I enjoy building dynamic, scalable, and user-friendly web applications using HTML, CSS, JavaScript, Node.js, React.js, Express, and MongoDB. I love turning ideas into clean, functional products and continuously improving code quality and performance by following best practices.
 
 **📚 Lifelong Learner**    
-In addition to web development, I am dedicated to enhancing my problem-solving skills through competitive coding and deepening my understanding of Data Structures and Algorithms (DSA). My goal is to write efficient and optimized code to tackle complex problems.
+In addition to web development, I am dedicated to enhancing my problem-solving skills through competitive coding and continuously deepening my understanding of Data Structures and Algorithms (DSA). I focus on writing efficient, optimized, and scalable code to tackle complex real-world problems and improve overall system performance.
 
 **💻 Programming Skills**    
       Feel free to ask me about:  
-**Java Programming:** From Basic to data structures, I have a solid foundation in Java programming.  
-**HTML & CSS:** I build visually appealing and user-friendly web interfaces.  
-**MongDb:** I manage databases and write efficient queries for data manipulation.  
+**Java Programming** : Strong fundamentals, OOPs, and data structures
 
+**Python Programming** : Automation scripting, test frameworks, backend utilities, and writing clean, readable code
+
+**JavaScript**: Modern ES6+, async programming
+
+**HTML & CSS**: Clean, responsive, and accessible UI design
+
+**MongoDB**: Database design, CRUD operations, and optimized queries
+
+**Testing**: Automation, manual testing, API testing, E2E testing
+
+**🧪 Software Development Engineer in Test (SDET) @ E2E Networks**
+Currently working as an SDET at E2E Networks, where I play a key role in ensuring product quality and reliability. My responsibilities include:
+
+✅ Automation Testing for APIs and web applications
+
+🔍 Manual Testing to validate complex user flows and edge cases
+
+🧪 Writing test scenarios for real-world use cases
+
+📝 Creating and maintaining detailed **E2E documentation** for features and releases
+
+🤝 Collaborating closely with developers, DevOps, and product teams
+
+Alongside testing, I actively contribute to:
+
+🎨 **Frontend development** (UI improvements, bug fixes, feature enhancements)
+
+⚙️ **Backend development** tasks (API validation, logic verification, data handling)
+This helps me bridge the gap between development and testing and deliver higher-quality software.
+
+🚀 **What Drives Me**
+
+Building reliable, high-quality software
+
+Learning new technologies and improving existing systems
+
+Working across roles — testing, frontend, and backend — to deliver better products
 
 💬 Let's Connect
 I am always open to discussing new projects, creative ideas, or opportunities to collaborate. Let's connect and build something amazing together!
