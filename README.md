@@ -24,7 +24,9 @@ In addition to web development, I am dedicated to enhancing my problem-solving s
 
 **🧪 Software Development Engineer in Test (SDET) @ E2E Networks**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Currently working as an SDET at E2E Networks, where I play a key role in ensuring product quality and reliability. My responsibilities include:
+&nbsp;&nbsp;&nbsp;&nbsp;Currently working as an SDET at E2E Networks, where I play a key role in ensuring product quality and reliability. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;My responsibilities include:
 
 * ✅ Automation Testing for APIs and web applications
 
